@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8AC36453849726DB1EC30D03DE528B9A39CC070B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "24CDA332E3EE5CE3520117D796E9A7AD9820990D" : 9223372036854775807,
+    "8AC36453849726DB1EC30D03DE528B9A39CC070B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "571C804F-5916-4886-B111-FFF1324FBC4F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "24CDA332E3EE5CE3520117D796E9A7AD9820990D" : "ios_ztb\/",
+    "8AC36453849726DB1EC30D03DE528B9A39CC070B" : "CMB-OpenAccount\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HXVideo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HXVideo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.20.162\/ios-apps-hx\/ios_ztb",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "24CDA332E3EE5CE3520117D796E9A7AD9820990D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.20.162\/chunhua\/CMB-OpenAccount",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8AC36453849726DB1EC30D03DE528B9A39CC070B"
+    }
+  ]
+}
